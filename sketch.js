@@ -8,7 +8,7 @@ function preload() {
 
 function setup() {
   createCanvas(windowWidth, windowHeight);
-  pixelDensity(1); // Use 1 display pixel per canvas pixel for accuracy
+  pixelDensity(1); // Use 1 display pixel per canvas pixel for accuracy, from chatGPT 
 
   // Resize image to width = 1000px, height is auto-calculated
   doveImg.resize(1000, 0);
@@ -18,7 +18,7 @@ function setup() {
   let xOffset = (width - doveImg.width) / 2;
   let yOffset = (height - doveImg.height) / 2;
 
-  // Loop through the image pixels and place a dot where it's dark
+  // Loop through the image pixels and place a dot where it's dark, from chatGPT
   for (let y = 0; y < doveImg.height; y += 3) {
     for (let x = 0; x < doveImg.width; x += 3) {
       let index = (x + y * doveImg.width) * 4;
