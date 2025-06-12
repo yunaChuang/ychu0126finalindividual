@@ -76,3 +76,7 @@ I did some small changes of the group code to make my personal work has a higher
 Close. (2019, November 14). *Close up image of racing pigeon eye. IStock.* https://www.istockphoto.com/photo/close-up-image-of-racing-pigeon-eye-gm1186176382-334586206
 
 *Dreams About Eyes.* (2018). Auntyflo.com. https://www.auntyflo.com/dream-dictionary/dreams-about-eyes#google_vignette
+
+(Sample Pack Link In Bio - Alien I Trust) Who defines life - If thought is life - then I am eternal by Alien_I_Trust. (2025). *Freesound.* https://freesound.org/people/Alien_I_Trust/sounds/785804/
+
+Piano loops 093 efect 4 octave long loop 120 bpm by josefpres. (2025). *Freesound.* https://freesound.org/people/josefpres/sounds/810839/
