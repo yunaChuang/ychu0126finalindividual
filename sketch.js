@@ -5,8 +5,8 @@ let song, speedSound; //sound
 let fft, analyser; //sound analysis
 let speedPlayed = false; //play in dark mode
 let spectrumHistory = []; //spectrum as array
-const delayFrames = 60; // i want sound delay to make divesity
-let topRowColors = []; // the top row small decorations
+const delayFrames = 60; //i want sound delay to make divesity
+let topRowColors = []; //the top row small decorations
 
 function preload() {
   doveImg = loadImage("assets/dovefinal.png");

@@ -7,12 +7,12 @@
 | Yuan-Yuan Chuang  | ychu0126   |
 
 ## Overview
-In my personal work's default mode, the visuals are calming, evoking a dreamy, meditative state as we want to present in our group major idea. However, holding down the mouse shifts the experience dramatically to "dark mode." The background turns black and an electronic "alien" sound plays. Here, the dove takes on a more unsettling, nightmare-like presence, as if watching you with the pop up eye.
+In my personal work's default mode, the visuals are calming, evoking a dreamy, meditative state as we want to present in our group major idea. However, holding down the mouse shifts the experience dramatically to "dark mode." The background turns black and an electronic "alien" sound plays. Here, the dove takes on a more unsettling, nightmare-like presence, as if watching you with the pop-up eye.
 
 ## How to Interact
 
 1. **Click** anywhere on the canvas to start the music.  
-2. **Hold the mouse down** on the dove to enter **Dark Mode** (I called it Cyber Mode in the code sometimes).  
+2. **Hold the mouse down** on the dove to enter **Dark Mode** (I called it Cyber Mode in coding sometimes).  
 3. **Move your mouse** close to the dots which shape the background of the dove to scatter them. This is the key part to interact with the dove.  
 4. **Move your mouse vertically** to control the music's volume with the red ellipse.  
 5. **Observe how visual elements shift** between Normal and Dark Mode — colour schemes, particle behaviour, and shapes all transform dynamically.
@@ -44,18 +44,18 @@ I focused on adding layers of **audio-driven** and **interactive animation** to 
 
 I was inspired by:  
 - [Article](https://www.auntyflo.com/dream-dictionary/dreams-about-eyes#google_vignette): Dreams and eyes are highly connected.  
-- [Image](https://www.istockphoto.com/photo/close-up-image-of-racing-pigeon-eye-gm1186176382-334586206): Birds and their eyes (sorry for being scary)
+- [Image](https://www.istockphoto.com/photo/close-up-image-of-racing-pigeon-eye-gm1186176382-334586206): Bird and its eye (Sorry for being scary)
 
 ## Technical Explanation
 
-- **Dots (dove shape)** are sampled from the image’s dark pixels and scattered via vector math. When the mouse comes close, a repulsion force is applied. This is the main group work.  
+- **Dots (dove's background)** are sampled from the image’s dark pixels and scattered via vector math (direction and distance). When the mouse comes close, a repulsion force is applied. This is the main group work and I did some small changes, for example, colour and pixel density. 
 - **Amplitude** controls:  
   - Side ellipses  
   - Vertical bounce of top-row circles  
   - The eye blinking  
 - **FFT spectrum** is visualized through radial circular bars.  
 - **Dark Mode** toggles alternate colour palettes and audio-triggered enhancements.  
-- **Mouse position** is mapped to control song volume.
+- **Mouse position** is mapped to control sound volume.
 
 ## Changes to Group Code
 
@@ -66,7 +66,7 @@ I did some small changes of the group code to make my personal work has a higher
 
 ## Tools & External Techniques
 
-- ChatGPT helped a lot in explaining the code and improving my understanding of p5.js. I had all the ideas myself and tried to develop them based on what we learned in the course. But sometimes it was hard to achieve exactly what I imagined, so I used AI tool to help better express and implement my thoughts. Most of the time, I asked ChatGPT to tell me the full code and explain them step by step.
+- ChatGPT helped a lot in explaining the code and improving my understanding of p5.js. I had all the ideas myself and tried to develop them based on what we learned in the course. But sometimes it was hard to achieve exactly what I imagined, so I used AI tool to help better express and implement my thoughts. Most of the time, I asked ChatGPT to tell me the code and explain them step by step. After getting the code, I always adjusted the parameters in the code made it more fits in the design.
 [ChatGPT](https://chatgpt.com/share/6847ee6c-e658-800f-8483-6ed4ac311111)
 [ChatGPT](https://chatgpt.com/share/6847eee5-7f98-800f-b918-23e87253133e)
 [ChatGPT](https://chatgpt.com/share/6847ef20-93a0-800f-baa3-6d54d8a697e4)
