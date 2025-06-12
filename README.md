@@ -1,4 +1,4 @@
-# ychu0126finalindividual# Dove in the Dream – Meditation  
+# Dove in the Dream – Meditation  
 ### Sound  
 ### Group D  
 
