@@ -7,7 +7,9 @@
 | Yuan-Yuan Chuang  | ychu0126   |
 
 ## Overview
-In my personal work's default mode, the visuals are calming, evoking a dreamy, meditative state as we want to present in our group major idea. However, holding down the mouse shifts the experience dramatically to "dark mode." The background turns black and an electronic "alien" sound plays. Here, the dove takes on a more unsettling, nightmare-like presence, as if watching you with the pop-up eye.
+This work includes a background dove and a large pop-up eye. When the mouse is pressed, it switches to dark mode, symbolising a nightmare.
+
+In my personal work’s default mode, the visuals are calm and reflective, evoking a dreamy, bubble-like meditative atmosphere aligned with our group’s main concept. However, holding down the mouse dramatically shifts the experience into “dark mode”—the background turns black, and an electronic “alien” sound plays. In this mode, the dove becomes more unsettling, almost haunting, as if it’s watching you through the exaggerated, pop-up eye.
 
 ## How to Interact
 
