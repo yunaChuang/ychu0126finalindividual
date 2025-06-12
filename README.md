@@ -71,3 +71,7 @@ I did some small changes of the group code to make my personal work has a higher
 [ChatGPT](https://chatgpt.com/share/6847eee5-7f98-800f-b918-23e87253133e)
 [ChatGPT](https://chatgpt.com/share/6847ef20-93a0-800f-baa3-6d54d8a697e4)
 - [p5.js](https://p5js.org) p5.js helped me a lot in understanding how the code works and allowed me to realise how to use it in a simple and basic way.
+
+## Reference
+Close. (2019, November 14). *Close up image of racing pigeon eye. IStock.* https://www.istockphoto.com/photo/close-up-image-of-racing-pigeon-eye-gm1186176382-334586206
+*Dreams About Eyes.* (2018). Auntyflo.com. https://www.auntyflo.com/dream-dictionary/dreams-about-eyes#google_vignette
